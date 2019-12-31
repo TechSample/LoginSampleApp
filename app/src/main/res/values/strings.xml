@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginSampleApp</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="password_hint">Enter password</string>
+    <string name="submit">Submit</string>
+    <string name="welcome_user">Welcome, %1$s</string>
+    <string name="username_error">Please enter username</string>
+    <string name="password_error">Please enter password</string>
+    <string name="login_failed">Oops.Login failed.Check your crendentials</string>
+</resources>
